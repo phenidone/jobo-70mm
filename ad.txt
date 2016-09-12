@@ -1,0 +1,20 @@
+This is an adapter to be inserted into the middle of a Jobo 2502 
+film spiral. It makes the spiral wider so that 70mm 
+aerial-surveillance or bulk-portrait film can be developed using a 
+basic Jobo 2xxx system; you don't need to buy the expensive and rare 
+3035 (tank) and 3075 (spiral) designed for 70mm.
+
+The adapter changes only the width of the spiral, not the length of 
+film that it holds so you can't develop a whole 5m cassette of 70mm 
+on a single spiral; you must cut it up first into pieces about the 
+same length as a 220 roll.
+
+This is for use ONLY with 70mm film and the Jobo 2xxx rotary drum 
+system; it is not compatible with Paterson spirals or Jobo 1xxx 
+spirals. Jobo spiral and drum not included!
+
+When installing the adapter, note the index dimple and line it up 
+with the red index mark on the spiral. This part contains long 
+fingers that are somewhat delicate due to the fused deposition 
+method of manufacture; if you squeeze it you can break them off 
+fairly easily so treat it with care.
