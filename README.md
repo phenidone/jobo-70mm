@@ -13,11 +13,11 @@ in a 2xxx tank.
 
 It is not compatible with Jobo 1xxx spirals/tanks, or with Paterson spirals.
 
-Yes, you can buy dedicated 70mm developing spirals and tanks, but they are very expensive.  Many of us
+While you can buy dedicated 70mm developing spirals and tanks, but they are very expensive.  Many of us
 have basic Jobo gear, and this allows small quantities of 70mm film to be developed.
 
-The adapter should be printed in ABS, and (for FDM) in the orientation shown, i.e. a vertical cylinder.
-Assuming you want to develop multiple spirals-full in a single batch, you will need to print multiple adapters.
+The adapter should be printed in ABS with 100% infill, and (for FDM) in the orientation shown, i.e. a vertical cylinder.
+Assuming you want to develop multiple spirals of film in a single batch, you will need to print multiple adapters.
 
 ## Usage
 
